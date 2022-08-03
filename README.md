@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
- Tic Tac Toe python game project for fun
+ A cute Tic Tac Toe python game project for fun
